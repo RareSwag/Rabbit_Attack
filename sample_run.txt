@@ -1,0 +1,40 @@
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:06:47) [MSC v.1914 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\jheinl3766\Downloads\rabbit-attack-master\rabbit_attack_v6.py 
+Welcome to RABBIT ATTACK!
+               ((`
+            ___ \ '--._
+         .'`   `'    o  )
+        /    \   '. __.'
+       _|    /_  \ \_\_
+      {_\______\-'\__\_\ 
+Look, a cute little bunny rabbit.
+Shall we use the Holy Hand Grenade? (y/n)No
+Oh, no! The rabbit just killed one of the knights!
+Only 4 remain.
+Shall we use the Holy Hand Grenade? (y/n)nO
+Oh, no! The rabbit just killed one of the knights!
+Only 3 remain.
+Shall we use the Holy Hand Grenade? (y/n)yES
+1... 2... 5... No, 3!
+Boom!
+The killer rabbit has been defeated. You win!
+Would you like to play again? (y/n)no
+Goodbye. Thanks for playing!
+                 /gg\           /gg\ 
+                /g.gg\         /gg.g\ 
+               |gg..gg\       /gg..gg| 
+               |gg...g|       |g...gg| 
+               |gg...g|       |g...gg| 
+                \gg..g/       \g..gg/ 
+                 |gg.gvgggggggvg.gg| 
+                /ggggggggggggggggggg\ 
+               /gggg(((ggggggg)))gggg\ 
+              |ggggg....ggggg....ggggg| 
+              |ggggg....ggggg....ggggg| 
+              |ggcccgggg\___/ggggcccgg| 
+              |ggcccccgggg|ggggcccccgg| 
+               \gggcccggg\---/gggcccgg/ 
+                \ggccgggggggggggggccg/ 
+>>> 
